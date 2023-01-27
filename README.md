@@ -5,8 +5,6 @@
 
 ![lipestorm GitHub stats](https://github-readme-stats.vercel.app/api?username=lipestorm&theme=onedar)
 
-![lipestorm GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lipestorm&theme=onedar)
-
 ### tecnologias utilizadas por mim diariamente
 
 <div style= "display: inline_block"><br/>
